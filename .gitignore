@@ -1,0 +1,6 @@
+# .gitignore 내용
+x64/
+*.user
+*.aps
+*.exe
+.vs/
